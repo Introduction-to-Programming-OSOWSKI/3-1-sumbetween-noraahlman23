@@ -2,7 +2,7 @@ def sumBetween(x,y):
   
     boop = 0
   
-    for i in range (5 + 1,7):
+    for i in range (x + 1,y):
         boop = boop + i
         print (i)
 
